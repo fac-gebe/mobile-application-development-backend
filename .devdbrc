@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "x:\\adet-backend\\database\\database.sqlite"
+  }
+]
